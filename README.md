@@ -1,2 +1,2 @@
-Subdomain produced by python
+Subdomain produced by python</br>
 usage:python Python-subdomain.py google.com 10
