@@ -31,7 +31,6 @@ def bing_search(site, pages):
                 print(domain)
 
 if __name__ == '__main__':
-    # site=baidu.com
     if len(sys.argv) == 3:
         site = sys.argv[1]
         page = sys.argv[2]
